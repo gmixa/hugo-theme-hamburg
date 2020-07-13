@@ -1,18 +1,18 @@
-name = "hamburg"
+name = "munich"
 license = "MIT"
-licenselink = "https://github.com/hauke96/hugo-theme-hamburg/blob/master/LICENSE.md"
+licenselink = "https://github.com/gmixa/hugo-theme-munich/blob/master/LICENSE.md"
 description = "Simple and clean blog theme for hugo"
-homepage = "https://github.com/hauke96/hugo-theme-hamburg"
+homepage = "https://github.com/gmixa/hugo-theme-munich"
 tags = ["blog", "tags", "bootstrap", "multilingual", "clean", "minimal", "disqus", "font awesome", "mobile"]
-repo = "https://github.com/hauke96/hugo-theme-hamburg"
+repo = "https://github.com/gmixa/hugo-theme-munich"
 min_version = "0.57"
 
 [author]
-	name = "Hauke Stieler"
-	homepage = "https://hauke-stieler.de"
+	name = "Gerald Mixa"
+	homepage = "https://mixas.de"
 
 [original]
-	author = "Keichi Takahashi"
-	name = "vienna"
-	homepage = "https://keichi.net/"
-	repo = "https://github.com/keichi/vienna"
+	author = "Hauke Stieler"
+	name = "hamburg"
+	homepage = "https://hauke-stieler.de/"
+	repo = "https://github.com/hauke96/hugo-theme-hamburg"
