@@ -59,4 +59,9 @@
       <i class="fa fa-key"></i>
     </a>
   {{ end }}
+  {{ with .Site.Params.xing }}
+    <a href="https://xing.com/profile/{{ . }}" target="_blank">
+       <i class="fa fa-xing" aria-hidden="true"></i>
+    </a>
+  {{ end }}
 </div>
